@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Süleyman</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **C#, GoLang, Node.js and PostgreSql**
+- My Skills
+**C#, JavaScript, Sql Server**
+
+- 🌱 I’m currently learning **GoLang, Node.js and PostgreSql**
 
 - 💬 Ask me about **C#**
 
